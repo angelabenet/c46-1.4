@@ -45,11 +45,9 @@ class Game {
     car2.addImage("blast", blastImage);
 
     cars = [car1, car2];
-// criando um novo grupo
+// CRIE OS GRUPOS E IDENTIQUE QUAL MÉTODO ESTÁ CRIANDO AS SPRITES 
 
-    fuels = new Group();
-    powerCoins = new Group();
-    obstacles = new Group();
+
 
     var obstaclesPositions = [
       { x: width / 2 + 250, y: height - 800, image: obstacle2Image },
