@@ -1,7 +1,11 @@
 var canvas;
 var backgroundImage, car1_img, car2_img, track;
-var fuelImage, powerCoinImage, lifeImage;
-var obstacle1Image, obstacle2Image;
+
+
+//ADICIONE AS VARIÁVEIS DAS IMAGENS DOS CARROS: 
+// obstacle1Image, obstacle2Image;
+// fuelImage, powerCoinImage, lifeImage;
+
 var database, gameState;
 var blastImage;
 var form, player, playerCount;
