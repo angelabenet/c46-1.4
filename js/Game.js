@@ -45,7 +45,7 @@ class Game {
     car2.addImage("blast", blastImage);
 
     cars = [car1, car2];
-// CRIE OS GRUPOS E IDENTIQUE QUAL MÉTODO ESTÁ CRIANDO AS SPRITES 
+// CRIE OS GRUPOS E IDENTIFIQUE QUAL MÉTODO ESTÁ CRIANDO AS SPRITES 
 
 
 
